@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AOne9</string>
+    <string name="Hello">Hola</string>
+    <string name="Change_Language">Cambiar Idioma</string>
+    <string name="ChooseLanguage">Elige Lengua</string>
+    <string name="Arabic">Arábica</string>
+    <string name="English">Inglesa</string>
+    <string name="Deutsch">Alemana</string>
+    <string name="Spanish">Española</string>
+</resources>

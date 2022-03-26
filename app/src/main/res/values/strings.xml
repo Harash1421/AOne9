@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AOne9</string>
+    <string name="Hello">Hello</string>
+    <string name="Change_Language">Change Language</string>
+    <string name="ChooseLanguage">Choose Language</string>
+    <string name="Arabic">Arabic</string>
+    <string name="English">English</string>
+    <string name="Deutsch">German</string>
+    <string name="Spanish">Spanish</string>
+</resources>
